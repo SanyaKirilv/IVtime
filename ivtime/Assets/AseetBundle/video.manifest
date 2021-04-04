@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2191942466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 781cf6ea5b17eead940dc04ca1c18f06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Videos/01.\u041D\u0430\u0447\u0430\u043B\u043E.mp4"
+Dependencies: []
