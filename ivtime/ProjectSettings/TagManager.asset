@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - tetr
+  - pacdot
+  - RawImg
+  - Game
+  - GameText
+  - UI
   layers:
   - Default
   - TransparentFX
