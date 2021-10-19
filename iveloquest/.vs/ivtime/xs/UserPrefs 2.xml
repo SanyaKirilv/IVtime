@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3445A483-2C88-CFA7-A227-39DC8AFD6A26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Canvas/Controller_video_2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller_progress.cs" Line="21" Column="11" />
+      <File FileName="Assets/Scripts/Canvas/Controller_video_0.cs" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/Canvas/Controller_video_1.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/Canvas/Controller_video_2.cs" Line="36" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48f6be46-b2ca-416b-902a-c5ccf4f0ea7b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

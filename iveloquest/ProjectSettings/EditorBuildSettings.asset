@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(Intro).unity
+    guid: 893db9ce81c6b4d52b9e819b559b30d0
+  - enabled: 1
+    path: Assets/Scenes/Menu/Loader.unity
+    guid: 1c21b15b81c3c4886b34949b5eb8d483
+  - enabled: 1
+    path: Assets/Scenes/Menu/AR.unity
+    guid: 77a8d94926513444ea2718ef8685d8cd
+  - enabled: 1
+    path: Assets/Scenes/Menu/Information.unity
+    guid: e55e19f643b50442cbbba7017ddbda87
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(Start).unity
+    guid: 9ef71603ca21248259b652e10643c870
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(1).unity
+    guid: c1c2fbe27229840008e6d025e1370a7a
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(2).unity
+    guid: dac165b26deed48cda41faa310e54b13
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(3).unity
+    guid: 5b69494a0d374423580a23dfa7117ced
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(4).unity
+    guid: d84c28ef9d04940f9a5104706d7bb4ed
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(5).unity
+    guid: 679ce9f5a3a3c41ec942f3ed560b22b1
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(6).unity
+    guid: 2e2ae225e40e54b11a2e0531cedf2403
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(7).unity
+    guid: 09754aa3d88784643ab7d687e66c8113
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(8).unity
+    guid: 89706b891ea7e48d4bd055fe833a5fb5
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(9).unity
+    guid: 98aab9f817e2a41b18f8759b4ce8c56d
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(10).unity
+    guid: 9d1a3b3af895e46d496844e527bdb062
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(11).unity
+    guid: 35af2391980ee4dc2872bfa3ad9168a7
+  - enabled: 1
+    path: Assets/Scenes/Menu/End.unity
+    guid: 891bc87bf41c74e049f2e8ccda265f6b
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu(End).unity
+    guid: 71020e378354e40599803808ada359bf
+  - enabled: 1
+    path: Assets/Scenes/Games/Tetris.unity
+    guid: 87fd23a759f044d42a7cf0f30b8980e9
+  - enabled: 1
+    path: Assets/Scenes/Games/Tanks.unity
+    guid: 1175536e2892da34594db45fe82474b7
+  - enabled: 1
+    path: Assets/Scenes/Games/Pacman.unity
+    guid: acb7f870dd6ef4b67b85f704b6c32387
+  m_configObjects: {}

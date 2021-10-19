@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3445A483-2C88-CFA7-A227-39DC8AFD6A26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/С# Scripts/Canvas/Controller_video_1.cs">
+    <Files>
+      <File FileName="Assets/С# Scripts/Canvas/Controller_video_0.cs" Line="1" Column="1" />
+      <File FileName="Assets/С# Scripts/Canvas/Controller_video_2.cs" Line="145" Column="17" />
+      <File FileName="Assets/С# Scripts/Load/CheckScript.cs" />
+      <File FileName="Assets/С# Scripts/WinGame.cs" />
+      <File FileName="Assets/С# Scripts/Canvas/Controller_PlaybackVideo.cs" Line="52" Column="14" />
+      <File FileName="Assets/С# Scripts/Load/Load_Level.cs" />
+      <File FileName="Assets/С# Scripts/Load/Load_LevelAsync.cs" />
+      <File FileName="Assets/С# Scripts/Load/Load_Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/С# Scripts/CameraFocusController.cs" Line="1" Column="1" />
+      <File FileName="Assets/С# Scripts/Share.cs" Line="1" Column="1" />
+      <File FileName="Assets/С# Scripts/Canvas/Controller_AR.cs" Line="24" Column="1" />
+      <File FileName="Assets/С# Scripts/Canvas/Controller_Marker.cs" Line="1" Column="1" />
+      <File FileName="Assets/С# Scripts/Canvas/Controller_video_1.cs" Line="10" Column="7" />
+      <File FileName="Assets/Games/Tetris/Scripts/ScoreUpdate.cs" />
+      <File FileName="Assets/Games/Tetris/Scripts/Playfield.cs" />
+      <File FileName="Assets/Games/Tetris/Scripts/Group.cs" />
+      <File FileName="Assets/Games/Tetris/Scripts/MoveController.cs" />
+      <File FileName="Assets/С# Scripts/Restart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Games/Pacman/Scripts/Managers/GameManager.cs" Line="74" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="88b8a48f-e1a8-4f4a-953b-c1a22eb6f754" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
